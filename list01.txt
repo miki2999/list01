@@ -4,5 +4,6 @@
 ! Homepage: https://github.com/
 ! Last modified: 30/04/2023
 
-!
+
 ||kikar.co.il^
+||ynet.co.il^
