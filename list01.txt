@@ -1,0 +1,8 @@
+!
+! Title: kav list 01
+! Description: List DNS-level ad blocking
+! Homepage: https://github.com/
+! Last modified: 30/04/2023
+
+!
+||kikar.co.il^
